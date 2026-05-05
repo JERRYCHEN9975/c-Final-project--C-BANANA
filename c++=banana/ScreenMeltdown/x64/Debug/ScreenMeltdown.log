@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(548,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(ScreenMeltdown.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+  ScreenMeltdown.vcxproj -> C:\Users\ASUS\Desktop\ScreenMeltdown\x64\Debug\C++=BANANA.exe

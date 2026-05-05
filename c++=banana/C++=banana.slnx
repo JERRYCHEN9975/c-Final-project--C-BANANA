@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ScreenMeltdown/ScreenMeltdown.vcxproj" Id="f1a35fa5-1bbd-449d-9d37-a4d90e982386" />
+</Solution>
